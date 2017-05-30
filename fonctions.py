@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Jeu du Pendu (test)
-# Test
+# Test 2
 # Import
 from random import randint
 #from donnees import *
