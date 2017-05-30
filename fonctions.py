@@ -1,6 +1,8 @@
 #!/usr/bin/env python3.6
 # -*- coding: utf-8 -*-
-#
+
+# Jeu du Pendu (test)
+# Test
 # Import
 from random import randint
 #from donnees import *
